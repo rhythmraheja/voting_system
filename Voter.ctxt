@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Voter
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ vote()
+comment3.params=
+comment3.target=void\ Display()
+numComments=4
